@@ -21,7 +21,6 @@
 #### FITUR UNTUK MEMBER GRUP!
 
 - `/play <song name>` - play song you requested
-- `/reply <song name>` - play song for INLINE BOT MUSIK, and reply messenger you
 - `/dplay <song name>` - play song you requested via deezer
 - `/splay <song name>` - play song you requested via jio saavn
 - `/playlist` - Show now playing list
